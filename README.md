@@ -78,17 +78,21 @@ GSIP offers a comprehensive suite of advanced space intelligence tools.
 17. **Lunar Shadow / Thermal Outage Simulator**: Predicts 100% solar power loss and thermal shock for cislunar orbiters.
 18. **Automated LLM Threat Briefings**: Generates highly formatted daily intelligence summaries.
 
-### 🔬 Research-Grade Features — World Firsts
-19. **Satellite Intent Recognition Engine**: Classifies the *intent* of non-cooperative space objects from maneuver pattern analysis.
-20. **Full Orbital Digital Twin**: Projects state 24hrs ahead using Keplerian propagation with J2 perturbation and atmospheric drag decay models.
-21. **Neuromorphic Event Camera Simulation**: Software simulation of asynchronous brightness-change tracking with sub-pixel localization accuracy.
-22. **Micro-Doppler Radar Characterization**: Extracts rotation period and shape classification from simulated radar signatures.
-23. **Federated Learning Across Observatories**: Privacy-preserving collaborative AI training across distributed observatory networks.
-24. **Kinetic Impactor Deflection Simulator**: Physics engine simulating kinetic impactor strikes on NEOs (post-DART).
-25. **3D Uncertainty Ellipsoid Visualization**: Computes covariance-based 3D probability ellipsoids for along-track/cross-track/radial uncertainty.
-26. **Dark Object Gravitational Detection**: Detects non-reflecting space objects through gravitational perturbation residual analysis.
-27. **Orbital Game Theory Conflict Predictor**: Models nation-state interactions as strategic games to predict escalation outcomes.
-28. **Cross-Domain Impact Chain Simulator**: Simulates cascading real-world consequences (GPS → Aviation → Finance) when constellations are destroyed.
+### 🔬 2025 Research-Grade Features — World Firsts (BSOA)
+GSIP integrates "Beyond State-of-the-Art" research engines that move the platform from simple tracking to predictive Battlespace Management.
+
+19. **OrbitGuard JEPA (Joint-Embedding Predictive Architecture)**: World-First mission intent engine that predicts maneuvers *before* they start by analyzing latent state-space variables and historical behavior profiles.
+20. **QG-DOE (Quantum Gravitational "Dark-Object" Engine)**: Uses simulated cold-atom interferometry mass-signatures to detect "Dark Objects" (stealth satellites/debris) that are invisible to radar and optical sensors.
+21. **H-pCP (Hypersonic pLEO Convergence Predictor)**: Specialized tracking engine for Hypersonic Glider Vehicles (HGVs). It fuses data from distributed pLEO constellations to predict Mach 10+ trajectories and convergence points.
+22. **CL-IA (Cislunar Lagrange Intent Analyzer)**: Analyzes strategic behavior in the Earth-Moon Lagrange points (L1-L5) using CR3BP (Circular Restricted Three-Body Problem) stability and non-Keplerian divergence models.
+23. **PP-FC (Privacy-Preserving Federated Catalog)**: Uses Differential Privacy (Laplacian Noise injection) to allow cross-observatory intelligence sharing without exposing raw sovereign tracking data or asset locations.
+24. **Full Orbital Digital Twin**: Projects state 24hrs ahead using Keplerian propagation with J2 perturbation and atmospheric drag decay models.
+25. **Neuromorphic Event Camera Simulation**: Software simulation of asynchronous brightness-change tracking with sub-pixel localization accuracy.
+26. **Micro-Doppler Radar Characterization**: Extracts rotation period and shape classification from simulated radar signatures.
+27. **Kinetic Impactor Deflection Simulator**: Physics engine simulating kinetic impactor strikes on NEOs (post-DART).
+28. **3D Uncertainty Ellipsoid Visualization**: Computes covariance-based 3D probability ellipsoids for along-track/cross-track/radial uncertainty.
+29. **Orbital Game Theory Conflict Predictor**: Models nation-state interactions as strategic games to predict escalation outcomes.
+30. **Cross-Domain Impact Chain Simulator**: Simulates cascading real-world consequences (GPS → Aviation → Finance) when constellations are destroyed.
 
 ---
 
