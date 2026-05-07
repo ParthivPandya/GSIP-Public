@@ -96,6 +96,17 @@ GSIP integrates "Beyond State-of-the-Art" research engines that move the platfor
 
 ---
 
+## 🇮🇳 Bharat-SDA Strategic Suite (ISRO 2025-2030)
+GSIP includes a sovereign intelligence layer specifically designed for the **Indian Space Ecosystem**, aligning with the roadmap of **ISRO** and **IN-SPACe**.
+
+1.  **Bharatiya Antariksha Station (BAS) Safe-Zone Monitor**: High-precision corridor tracking (400-450km) to protect India's future crewed modules from orbital debris.
+2.  **NETRA-Grade Intentional Maneuver Predictor (IMP)**: AI-driven detection of foreign "Inspector" satellites shadowing critical Indian assets like **GSAT-7A**.
+3.  **DFSM-2030 Compliance Engine**: Automated auditing for the **Debris-Free Space Mission** mandate, ensuring all Indian launches have perigee-lowering Delta-v margins.
+4.  **Gaganyaan Crewed Safety Predictor**: Real-time abort scenario modeling and environmental gating for India's human spaceflight missions.
+5.  **ISDC: Indigenous Signal De-Collision**: Advanced decoding of **ADS-B/AIS** telemetry for the Indian Ocean Region (IOR) using low-SNR optimized algorithms.
+
+---
+
 ## 🌐 About Us
 
 **GSIP (Global Space Intelligence Platform)** was born out of a mission to democratize research-grade Space Domain Awareness (SDA). We believe that high-fidelity orbital intelligence should be accessible to more than just a few world powers. 
