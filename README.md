@@ -97,6 +97,8 @@ GSIP integrates "Beyond State-of-the-Art" research engines that move the platfor
 ---
 
 ## 🇮🇳 Bharat-SDA Strategic Suite (ISRO 2025-2030)
+![Bharat-SDA Strategic Suite Dashboard](./bharat_sda_dashboard.png)
+
 GSIP includes a sovereign intelligence layer specifically designed for the **Indian Space Ecosystem**, aligning with the roadmap of **ISRO** and **IN-SPACe**.
 
 1.  **Bharatiya Antariksha Station (BAS) Safe-Zone Monitor**: High-precision corridor tracking (400-450km) to protect India's future crewed modules from orbital debris.
